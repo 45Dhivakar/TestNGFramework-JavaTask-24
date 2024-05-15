@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-15T23:10:52 IST" name="Suite" finished-at="2024-05-15T23:11:08 IST" duration-ms="15814">
+    <groups>
+    </groups>
+    <test started-at="2024-05-15T23:10:52 IST" name="Test" finished-at="2024-05-15T23:11:08 IST" duration-ms="15814">
+      <class name="com.demoblaze.tests.LoginTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.demoblaze.tests.LoginTest@6adbc9d]" started-at="2024-05-15T23:10:52 IST" name="setUp" finished-at="2024-05-15T23:10:59 IST" duration-ms="6965" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testLogin()[pri:0, instance:com.demoblaze.tests.LoginTest@6adbc9d]" started-at="2024-05-15T23:10:59 IST" name="testLogin" finished-at="2024-05-15T23:11:00 IST" duration-ms="817" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.demoblaze.tests.LoginTest@6adbc9d]" started-at="2024-05-15T23:11:00 IST" name="tearDown" finished-at="2024-05-15T23:11:01 IST" duration-ms="1065" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.demoblaze.tests.LoginTest -->
+      <class name="com.demoblaze.tests.SignUpTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.demoblaze.tests.SignUpTest@47eaca72]" started-at="2024-05-15T23:11:01 IST" name="setUp" finished-at="2024-05-15T23:11:05 IST" duration-ms="4615" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testSignUp()[pri:0, instance:com.demoblaze.tests.SignUpTest@47eaca72]" started-at="2024-05-15T23:11:05 IST" name="testSignUp" finished-at="2024-05-15T23:11:06 IST" duration-ms="1079" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSignUp -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.demoblaze.tests.SignUpTest@47eaca72]" started-at="2024-05-15T23:11:06 IST" name="tearDown" finished-at="2024-05-15T23:11:08 IST" duration-ms="1183" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.demoblaze.tests.SignUpTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
